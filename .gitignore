@@ -1,0 +1,22 @@
+# Created by Piotr Daniel on 31.03.2021
+#
+#
+#
+# altium excessive files
+*.LOG
+*.zip
+#altium previews
+*.$$$Preview
+*.SchDocPreview
+#
+#
+/production
+/DiPho_AFE/History/
+/DiPho_AFE/Project Logs for DiPho_analog/
+/DiPho_digital/History/
+/DiPho_digital/Project Logs for DiPho_analog/
+/__Previews
+#
+# not used yet
+
+DiPho_digital/Project Outputs for DiPho_digital/ERC.PDF
