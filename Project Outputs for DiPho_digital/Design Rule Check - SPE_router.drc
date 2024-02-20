@@ -1,0 +1,580 @@
+Protel Design System Design Rule Check
+PCB File : \\Mac\Home\Documents\Sinara\Altium\SPE_router\SPE_router.PcbDoc
+Date     : 18.02.2024
+Time     : 18:47:46
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad MP4-1(66.599mm,115.792mm) on Multi-Layer on Net NetMP4_1
+   Pad MP3-1(89.599mm,115.792mm) on Multi-Layer on Net NetMP3_1
+   Pad MP2-1(66.599mm,57.792mm) on Multi-Layer on Net NetMP2_1
+   Pad MP1-1(89.599mm,57.792mm) on Multi-Layer on Net NetMP1_1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad C10-2(733.489mm,274.365mm) on Top Layer [Unplated] And Pad C3-2(882.106mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad C7-2(498.5mm,251.5mm) on Top Layer [Unplated] And Pad C10-2(733.489mm,274.365mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad IC4-16(22.25mm,46.25mm) on Top Layer And Pad C11-1(24.7mm,142.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC12_1 Between Pad R6-2(651.358mm,274.321mm) on Top Layer [Unplated] And Pad C12-1(655.544mm,273.864mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad IC5-16(598.289mm,273.955mm) on Top Layer And Pad C13-2(641.873mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad C15-1(14.5mm,32.2mm) on Top Layer And Pad C14-2(24mm,36.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad C14-2(24mm,36.5mm) on Top Layer [Unplated] And Pad L2-1(25.75mm,26.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC16_2 Between Pad C17-2(583.91mm,273.661mm) on Top Layer [Unplated] And Pad C16-2(590.868mm,275.415mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC16_2 Between Pad R9-2(577.14mm,274.321mm) on Top Layer [Unplated] And Pad C17-2(583.91mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC16_2 Between Pad C18-2(556.961mm,273.661mm) on Top Layer [Unplated] And Pad C19-2(561.88mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC16_2 Between Pad F2-1(199.5mm,9.2mm) on Top Layer [Unplated] And Pad C18-2(556.961mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC19_1 Between Pad IC4-1(21.1mm,45.55mm) on Top Layer And Pad C19-1(560.98mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC19_1 Between Pad C19-1(560.98mm,273.661mm) on Top Layer [Unplated] And Pad R10-2(570.65mm,274.385mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC16_2 Between Pad C19-2(561.88mm,273.661mm) on Top Layer [Unplated] And Pad R9-2(577.14mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC20_1 Between Pad C20-1(537.02mm,272.677mm) on Top Layer [Unplated] And Pad R11-2(565.57mm,274.385mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad D13-1(245.5mm,13.5mm) on Top Layer [Unplated] And Pad C21-2(522.366mm,273.661mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad C21-2(522.366mm,273.661mm) on Top Layer [Unplated] And Pad R12-2(530.975mm,274.385mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC22_2 Between Pad C23-1(54.5mm,32.2mm) on Top Layer And Pad C22-2(64mm,36.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC22_2 Between Pad C22-2(64mm,36.5mm) on Top Layer [Unplated] And Pad L3-1(65.75mm,26.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC24_1 Between Pad R21-2(637.717mm,206.807mm) on Top Layer And Pad C24-1(659.675mm,204.967mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad J3-9(49.445mm,149.9mm) on Multi-Layer And Pad C25-2(632.203mm,206.553mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad C25-2(632.203mm,206.553mm) on Top Layer [Unplated] And Pad R19-1(687.437mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_RESET Between Pad IC7-12(74.599mm,129.25mm) on Top Layer And Pad C26-2(589.139mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_RESET Between Pad C26-2(589.139mm,207.105mm) on Top Layer [Unplated] And Pad R25-1(606.691mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC27_1 Between Pad J3-S2(37.255mm,153.2mm) on Multi-Layer And Pad C27-1(583.755mm,204.967mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC27_1 Between Pad C27-1(583.755mm,204.967mm) on Top Layer And Pad R27-2(595.235mm,206.845mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC28_2 Between Pad R29-2(547.687mm,207.125mm) on Top Layer [Unplated] And Pad C28-2(553.529mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC29_2 Between Pad R30-2(527.036mm,207.125mm) on Top Layer [Unplated] And Pad C29-2(532.878mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8CORE Between Pad C30-2(464.908mm,206.795mm) on Top Layer [Unplated] And Pad C31-2(470.521mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8CORE Between Pad IC7-38(83.401mm,129.75mm) on Top Layer And Pad C30-2(464.908mm,206.795mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8CORE Between Pad C31-2(470.521mm,207.105mm) on Top Layer [Unplated] And Pad C32-2(475.855mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C33-2(481.697mm,207.105mm) on Top Layer [Unplated] And Pad C34-2(487.539mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-49(82.75mm,135.451mm) on Top Layer And Pad C33-2(481.697mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C34-2(487.539mm,207.105mm) on Top Layer [Unplated] And Pad C35-2(493.381mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C35-2(493.381mm,207.105mm) on Top Layer [Unplated] And Pad C36-2(499.223mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C36-2(499.223mm,207.105mm) on Top Layer [Unplated] And Pad C37-2(505.065mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C37-2(505.065mm,207.105mm) on Top Layer [Unplated] And Pad C38-2(510.907mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C38-2(510.907mm,207.105mm) on Top Layer [Unplated] And Pad C39-2(516.749mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad C39-2(516.749mm,207.105mm) on Top Layer [Unplated] And Pad L4-2(524.458mm,206.807mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad C40-2(419.823mm,207.105mm) on Top Layer [Unplated] And Pad C41-2(425.665mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad C4-1(9.8mm,61mm) on Top Layer And Pad PCBM1-7(11.365mm,68.96mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad C41-2(425.665mm,207.105mm) on Top Layer [Unplated] And Pad C42-2(430.999mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad C42-2(430.999mm,207.105mm) on Top Layer [Unplated] And Pad C43-2(436.866mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad C43-2(436.866mm,207.105mm) on Top Layer [Unplated] And Pad C44-2(442.708mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8USBPLL Between Pad IC7-62(76.25mm,135.401mm) on Top Layer And Pad C45-2(448.55mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8USBPLL Between Pad C45-2(448.55mm,207.105mm) on Top Layer [Unplated] And Pad L5-1(460.501mm,206.807mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8ETHPLL Between Pad IC7-48(83.451mm,134.75mm) on Top Layer And Pad C46-2(454.392mm,207.105mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P1V8ETHPLL Between Pad C46-2(454.392mm,207.105mm) on Top Layer [Unplated] And Pad L5-2(462.101mm,206.807mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_CFILT_SPE_PHY0_P Between Pad L6_SPE_PHY0-1(324.443mm,278.475mm) on Top Layer And Pad C47_SPE_PHY0-1(340.936mm,281.836mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY0_P Between Pad C49_SPE_PHY0-2(245.406mm,282.399mm) on Top Layer And Pad C47_SPE_PHY0-2(340.936mm,282.736mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_CFILT_SPE_PHY1_P Between Pad L6_SPE_PHY1-1(191.754mm,294.248mm) on Top Layer And Pad C47_SPE_PHY1-1(207.738mm,297.482mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY1_P Between Pad C49_SPE_PHY1-2(114.749mm,298.045mm) on Top Layer And Pad C47_SPE_PHY1-2(207.738mm,298.382mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_CFILT_SPE_PHY0_N Between Pad C48_SPE_PHY0-1(284.04mm,281.836mm) on Top Layer [Unplated] And Pad L6_SPE_PHY0-4(323.443mm,278.475mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY0_N Between Pad C50_SPE_PHY0-2(264.964mm,282.399mm) on Top Layer And Pad C48_SPE_PHY0-2(284.04mm,282.736mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY0_N Between Pad C48_SPE_PHY0-2(284.04mm,282.736mm) on Top Layer [Unplated] And Pad NT1_SPE_PHY0-1(441.415mm,311.078mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_CFILT_SPE_PHY1_N Between Pad C48_SPE_PHY1-1(152.392mm,297.482mm) on Top Layer [Unplated] And Pad L6_SPE_PHY1-4(190.754mm,294.248mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY1_N Between Pad C50_SPE_PHY1-2(133.799mm,298.045mm) on Top Layer And Pad C48_SPE_PHY1-2(152.392mm,298.382mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY1_N Between Pad C48_SPE_PHY1-2(152.392mm,298.382mm) on Top Layer [Unplated] And Pad NT1_SPE_PHY1-1(214.577mm,234.573mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC49_SPE_PHY0_1 Between Pad R33_SPE_PHY0-2(206.087mm,282.476mm) on Top Layer And Pad C49_SPE_PHY0-1(245.406mm,280.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY0_P Between Pad J6_SPE_PHY0-1(28.75mm,10.55mm) on Multi-Layer And Pad C49_SPE_PHY0-2(245.406mm,282.399mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC49_SPE_PHY1_1 Between Pad R33_SPE_PHY1-2(76.446mm,298.123mm) on Top Layer And Pad C49_SPE_PHY1-1(114.749mm,296.245mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY1_P Between Pad J6_SPE_PHY1-1(68.75mm,10.55mm) on Multi-Layer And Pad C49_SPE_PHY1-2(114.749mm,298.045mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC50_SPE_PHY0_1 Between Pad R34_SPE_PHY0-2(225.645mm,282.476mm) on Top Layer And Pad C50_SPE_PHY0-1(264.964mm,280.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY0_N Between Pad J6_SPE_PHY0-2(31.25mm,10.55mm) on Multi-Layer And Pad C50_SPE_PHY0-2(264.964mm,282.399mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC50_SPE_PHY1_1 Between Pad R34_SPE_PHY1-2(95.496mm,298.123mm) on Top Layer And Pad C50_SPE_PHY1-1(133.799mm,296.245mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY1_N Between Pad J6_SPE_PHY1-2(71.25mm,10.55mm) on Multi-Layer And Pad C50_SPE_PHY1-2(133.799mm,298.045mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC51_SPE_PHY0_2 Between Pad IC9_SPE_PHY0-8(40.9mm,44.5mm) on Top Layer And Pad C51_SPE_PHY0-2(186.529mm,282.736mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC51_SPE_PHY1_2 Between Pad C51_SPE_PHY1-2(57.396mm,298.382mm) on Top Layer [Unplated] And Pad IC9_SPE_PHY1-8(80.9mm,44.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VIN+ Between Pad C5-2(38.5mm,121.75mm) on Top Layer [Unplated] And Pad L1-3(50.25mm,109.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VIN+ Between Pad PCBM1-1(24.14mm,135mm) on Multi-Layer And Pad C5-2(38.5mm,121.75mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC52_SPE_PHY0_2 Between Pad IC9_SPE_PHY0-28(37.55mm,46.7mm) on Top Layer And Pad C52_SPE_PHY0-2(166.971mm,282.736mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC52_SPE_PHY1_2 Between Pad C52_SPE_PHY1-2(38.371mm,298.382mm) on Top Layer [Unplated] And Pad IC9_SPE_PHY1-28(77.55mm,46.7mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3_FILT Between Pad C55_SPE_PHY0-2(51.427mm,282.736mm) on Top Layer [Unplated] And Pad L7_SPE_PHY0-2(71.239mm,282.426mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3_FILT Between Pad IC9_SPE_PHY1-4(79.3mm,44.55mm) on Top Layer And Pad C55_SPE_PHY1-2(206.927mm,35.565mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3_FILT Between Pad C55_SPE_PHY1-2(206.927mm,35.565mm) on Top Layer [Unplated] And Pad L7_SPE_PHY1-2(226.231mm,35.255mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC56_1 Between Pad R37-2(178.97mm,21.5mm) on Top Layer [Unplated] And Pad C56-1(181.5mm,21.05mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad C57-2(175.5mm,20.5mm) on Top Layer [Unplated] And Pad IC10-16(184.25mm,19.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad R38-2(169.97mm,21.5mm) on Top Layer [Unplated] And Pad C57-2(175.5mm,20.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad C58-2(154.5mm,20.5mm) on Top Layer [Unplated] And Pad C59-2(160.5mm,20.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad C60-2(182mm,15.5mm) on Top Layer [Unplated] And Pad C61-2(188mm,15.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad C63-2(176.45mm,16.5mm) on Top Layer [Unplated] And Pad C60-2(182mm,15.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad C61-2(188mm,15.5mm) on Top Layer [Unplated] And Pad C62-2(194.5mm,15.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VIN- Between Pad C6-2(38.5mm,106.25mm) on Top Layer [Unplated] And Pad L1-4(53.75mm,109.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VIN- Between Pad PCBM1-2(21.6mm,135mm) on Multi-Layer And Pad C6-2(38.5mm,106.25mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VIN- Between Pad PCBM1-HP1(27.765mm,89.625mm) on Top Layer [Unplated] And Pad C6-2(38.5mm,106.25mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad C62-2(194.5mm,15.5mm) on Top Layer [Unplated] And Pad R14-2(476.111mm,274.385mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC63_1 Between Pad C63-1(175.55mm,16.5mm) on Top Layer [Unplated] And Pad R14-1(476.111mm,273.445mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC63_1 Between Pad R43-2(170.97mm,16.5mm) on Top Layer [Unplated] And Pad C63-1(175.55mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad R50-2(136.47mm,21.5mm) on Top Layer [Unplated] And Pad C63-2(176.45mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC64_1 Between Pad R44-2(167.97mm,16.5mm) on Top Layer [Unplated] And Pad C64-1(173.5mm,15.55mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad C65-2(164.5mm,15.5mm) on Top Layer [Unplated] And Pad R38-2(169.97mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC66_2 Between Pad C66-2(136mm,15.5mm) on Top Layer [Unplated] And Pad C67-2(142mm,15.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC66_2 Between Pad C69-2(127.45mm,16.5mm) on Top Layer [Unplated] And Pad C66-2(136mm,15.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC66_2 Between Pad C67-2(142mm,15.5mm) on Top Layer [Unplated] And Pad C68-2(148mm,15.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC66_2 Between Pad C68-2(148mm,15.5mm) on Top Layer [Unplated] And Pad F3-1(153mm,9.2mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC69_1 Between Pad R47-1(123.03mm,16.5mm) on Top Layer [Unplated] And Pad C69-1(126.55mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC66_2 Between Pad R47-2(123.97mm,16.5mm) on Top Layer [Unplated] And Pad C69-2(127.45mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC71_1 Between Pad C71-1(144.55mm,21.5mm) on Top Layer [Unplated] And Pad IC10-1(184.95mm,18.6mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC71_1 Between Pad R40-1(141.53mm,21.5mm) on Top Layer [Unplated] And Pad C71-1(144.55mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad R40-2(142.47mm,21.5mm) on Top Layer [Unplated] And Pad C71-2(145.45mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad D12-2(241.5mm,13.5mm) on Top Layer [Unplated] And Pad C7-2(498.5mm,251.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad C72-2(105.5mm,9.5mm) on Top Layer [Unplated] And Pad C73-2(111.5mm,9.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad C73-2(111.5mm,9.5mm) on Top Layer [Unplated] And Pad R52-2(112.97mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC8_2 Between Pad C8-2(32.588mm,149.401mm) on Top Layer [Unplated] And Pad D15-2(223mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC8_2 Between Pad LD2-2(11.23mm,156.77mm) on Multi-Layer And Pad C8-2(32.588mm,149.401mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad C9-1(23.8mm,61mm) on Top Layer And Pad D14-2(212mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad PCBM1-10(18.985mm,68.96mm) on Multi-Layer And Pad C9-1(23.8mm,61mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VC+ Between Pad D1-1(39.5mm,126.35mm) on Top Layer [Unplated] And Pad D2-1(44mm,126.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_IN4 Between Pad D1-2(39.5mm,130.65mm) on Top Layer [Unplated] And Pad D6-1(39.5mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad D12-1(234.5mm,13.5mm) on Top Layer [Unplated] And Pad D13-1(245.5mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad D15-1(216mm,13.5mm) on Top Layer [Unplated] And Pad D12-1(234.5mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad D14-2(212mm,13.5mm) on Top Layer [Unplated] And Pad D12-2(241.5mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC8_2 Between Pad F1-2(229mm,15.8mm) on Top Layer [Unplated] And Pad D13-2(252.5mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad D14-1(205mm,13.5mm) on Top Layer [Unplated] And Pad D15-1(216mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad IC10-16(184.25mm,19.75mm) on Top Layer And Pad D14-1(205mm,13.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC8_2 Between Pad D15-2(223mm,13.5mm) on Top Layer [Unplated] And Pad F1-2(229mm,15.8mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC+ Between Pad D2-1(44mm,126.35mm) on Top Layer [Unplated] And Pad D3-1(48.5mm,126.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_IN3 Between Pad D2-2(44mm,130.65mm) on Top Layer [Unplated] And Pad D7-1(44mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC+ Between Pad D3-1(48.5mm,126.35mm) on Top Layer [Unplated] And Pad D4-1(53mm,126.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_IN2 Between Pad D3-2(48.5mm,130.65mm) on Top Layer [Unplated] And Pad D8-1(48.5mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC+ Between Pad D4-1(53mm,126.35mm) on Top Layer [Unplated] And Pad D5-2(59mm,129mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VC+ Between Pad D4-1(53mm,126.35mm) on Top Layer [Unplated] And Pad L1-1(53.75mm,118.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_IN1 Between Pad D4-2(53mm,130.65mm) on Top Layer [Unplated] And Pad D9-1(53mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC- Between Pad D9-2(53mm,138.65mm) on Top Layer [Unplated] And Pad D5-1(59mm,136mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_IN4 Between Pad J3-1(39.285mm,149.9mm) on Multi-Layer And Pad D6-1(39.5mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC- Between Pad D6-2(39.5mm,138.65mm) on Top Layer [Unplated] And Pad D7-2(44mm,138.65mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_IN3 Between Pad D7-1(44mm,134.35mm) on Top Layer [Unplated] And Pad J3-6(45.635mm,147.36mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VC- Between Pad D7-2(44mm,138.65mm) on Top Layer [Unplated] And Pad D8-2(48.5mm,138.65mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_IN2 Between Pad J3-2(40.555mm,147.36mm) on Multi-Layer And Pad D8-1(48.5mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC- Between Pad D8-2(48.5mm,138.65mm) on Top Layer [Unplated] And Pad D9-2(53mm,138.65mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VC- Between Pad D8-2(48.5mm,138.65mm) on Top Layer [Unplated] And Pad L1-2(50.25mm,118.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_IN1 Between Pad J3-7(46.905mm,149.9mm) on Multi-Layer And Pad D9-1(53mm,134.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetF1_1 Between Pad J2-1(28.972mm,149.422mm) on Multi-Layer And Pad F1-1(229mm,9.2mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC16_2 Between Pad IC4-7(23.75mm,41.9mm) on Top Layer And Pad F2-1(199.5mm,9.2mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad L2-1(25.75mm,26.75mm) on Top Layer And Pad F2-2(199.5mm,15.8mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC22_2 Between Pad L3-1(65.75mm,26.75mm) on Top Layer And Pad F3-2(153mm,15.8mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC10_17 Between Pad R38-1(169.03mm,21.5mm) on Top Layer [Unplated] And Pad IC10-17(184.05mm,19.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC10_18 Between Pad R39-2(148.97mm,21.5mm) on Top Layer [Unplated] And Pad IC10-18(184.05mm,18.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC10_2 Between Pad R39-1(148.03mm,21.5mm) on Top Layer [Unplated] And Pad IC10-2(185.6mm,18.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC10_4 Between Pad R37-1(178.03mm,21.5mm) on Top Layer [Unplated] And Pad IC10-4(186.9mm,18.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC1_1 Between Pad R2-1(246.012mm,58.092mm) on Top Layer [Unplated] And Pad IC1-1(254.509mm,57.467mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC1_3 Between Pad OSC1-3(233.642mm,55.594mm) on Top Layer [Unplated] And Pad IC1-3(254.509mm,55.567mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC1_4 Between Pad R1-1(250.33mm,58.092mm) on Top Layer [Unplated] And Pad IC1-4(257.099mm,55.567mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC1_6 Between Pad R3-1(237.858mm,58.092mm) on Top Layer [Unplated] And Pad IC1-6(257.099mm,57.467mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VIN+ Between Pad IC3-1(45.69mm,77.174mm) on Top Layer And Pad IC2-1(45.69mm,87.105mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VIN+ Between Pad IC2-1(45.69mm,87.105mm) on Top Layer And Pad L1-3(50.25mm,109.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC2_2 Between Pad PCBM1-4(16.52mm,135mm) on Multi-Layer And Pad IC2-2(45.69mm,88.375mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_TYP4_DET Between Pad IC2-4(39.39mm,87.105mm) on Top Layer And Pad R4-1(486.127mm,297.91mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC3_2 Between Pad PCBM1-3(19.06mm,135mm) on Multi-Layer And Pad IC3-2(45.69mm,78.444mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_TYP2_DET Between Pad IC3-4(39.39mm,77.174mm) on Top Layer And Pad R5-1(677.165mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad IC4-16(22.25mm,46.25mm) on Top Layer And Pad IC6-16(62.25mm,46.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC4_17 Between Pad IC4-17(21.75mm,46.45mm) on Top Layer And Pad R7-2(603.352mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL0_PG Between Pad IC4-18(21.25mm,46.45mm) on Top Layer And Pad J1-29(67.869mm,98.222mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PODL0_PG Between Pad IC4-18(21.25mm,46.45mm) on Top Layer And Pad R51-2(117.5mm,21.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC4_2 Between Pad IC4-2(21.25mm,44.9mm) on Top Layer And Pad R8-1(586.487mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC4_4 Between Pad IC4-4(21.25mm,43.6mm) on Top Layer And Pad R6-1(650.418mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC63_1 Between Pad R14-1(476.111mm,273.445mm) on Top Layer [Unplated] And Pad IC5-1(597.139mm,273.255mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad R12-2(530.975mm,274.385mm) on Top Layer [Unplated] And Pad IC5-16(598.289mm,273.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC5_17 Between Pad R12-1(530.975mm,273.445mm) on Top Layer [Unplated] And Pad IC5-17(597.789mm,274.155mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC5_18 Between Pad R13-2(513.424mm,274.385mm) on Top Layer [Unplated] And Pad IC5-18(597.289mm,274.155mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC5_2 Between Pad R13-1(513.424mm,273.445mm) on Top Layer [Unplated] And Pad IC5-2(597.289mm,272.605mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC5_4 Between Pad R11-1(565.57mm,273.445mm) on Top Layer [Unplated] And Pad IC5-4(597.289mm,271.305mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad R14-2(476.111mm,274.385mm) on Top Layer [Unplated] And Pad IC5-9(599.789mm,271.305mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC69_1 Between Pad IC6-1(61.1mm,45.55mm) on Top Layer And Pad R48-2(113.47mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P12V0 Between Pad IC6-16(62.25mm,46.25mm) on Top Layer And Pad R38-2(169.97mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC6_17 Between Pad IC6-17(61.75mm,46.45mm) on Top Layer And Pad R45-2(158.97mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL1_PG Between Pad IC6-18(61.25mm,46.45mm) on Top Layer And Pad J1-31(67.869mm,100.762mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PODL1_PG Between Pad IC6-18(61.25mm,46.45mm) on Top Layer And Pad R53-2(104.5mm,21.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC6_2 Between Pad IC6-2(61.25mm,44.9mm) on Top Layer And Pad R46-1(129.53mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC6_4 Between Pad IC6-6(61.25mm,41.9mm) on Top Layer And Pad R44-1(167.03mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC66_2 Between Pad IC6-7(63.75mm,41.9mm) on Top Layer And Pad R47-2(123.97mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PHY_USB_DP0_N Between Pad J4-2(67.5mm,150mm) on Multi-Layer And Pad IC7-1(74.549mm,134.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-10(74.599mm,130.25mm) on Top Layer And Pad IC7-5(74.599mm,132.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_VBUS_DET Between Pad IC7-11(74.599mm,129.75mm) on Top Layer And Pad R22-1(624.217mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_USB_PRTCTL0 Between Pad IC8-2(8.865mm,142.75mm) on Top Layer And Pad IC7-14(74.599mm,128.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P1V8CORE Between Pad IC7-15(74.599mm,127.75mm) on Top Layer And Pad IC7-38(83.401mm,129.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_USB_PRTCTL1 Between Pad IC8-4(11.405mm,142.75mm) on Top Layer And Pad IC7-16(74.549mm,127.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-19(76.25mm,126.599mm) on Top Layer And Pad IC7-27(80.25mm,126.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_USB_DP0_P Between Pad J4-3(67.5mm,148mm) on Multi-Layer And Pad IC7-2(74.599mm,134.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net LNK_LED Between Pad IC7-21(77.25mm,126.599mm) on Top Layer And Pad R26-1(600.849mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SPD_LED Between Pad IC7-22(77.75mm,126.599mm) on Top Layer And Pad R20-1(641.235mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-27(80.25mm,126.599mm) on Top Layer And Pad IC7-28(80.75mm,126.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-28(80.75mm,126.599mm) on Top Layer And Pad IC7-29(81.25mm,126.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-29(81.25mm,126.599mm) on Top Layer And Pad IC7-30(81.75mm,126.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_USB_DP1_N Between Pad IC7-3(74.599mm,133.75mm) on Top Layer And Pad J5-2(82.5mm,150mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-30(81.75mm,126.599mm) on Top Layer And Pad IC7-32(82.75mm,126.549mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-32(82.75mm,126.549mm) on Top Layer And Pad IC7-33(83.451mm,127.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-39(83.401mm,130.25mm) on Top Layer And Pad IC7-33(83.451mm,127.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-39(83.401mm,130.25mm) on Top Layer And Pad IC7-40(83.401mm,130.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_USB_DP1_P Between Pad IC7-4(74.599mm,133.25mm) on Top Layer And Pad J5-3(82.5mm,148mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC7-40(83.401mm,130.75mm) on Top Layer And Pad IC7-46(83.401mm,133.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC7_41 Between Pad IC7-41(83.401mm,131.25mm) on Top Layer And Pad R23-2(618.375mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-51(81.75mm,135.401mm) on Top Layer And Pad IC7-49(82.75mm,135.451mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-5(74.599mm,132.75mm) on Top Layer And Pad IC7-64(75.25mm,135.451mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC7_50 Between Pad IC7-50(82.25mm,135.401mm) on Top Layer And Pad R28-2(577.455mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-54(80.25mm,135.401mm) on Top Layer And Pad IC7-51(81.75mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_RX_P Between Pad J3-5(44.365mm,149.9mm) on Multi-Layer And Pad IC7-52(81.25mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_RX_P Between Pad IC7-52(81.25mm,135.401mm) on Top Layer And Pad R17-1(676.236mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_RX_N Between Pad J3-3(41.825mm,149.9mm) on Multi-Layer And Pad IC7-53(80.75mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_RX_N Between Pad IC7-53(80.75mm,135.401mm) on Top Layer And Pad R18-1(681.824mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-57(78.75mm,135.401mm) on Top Layer And Pad IC7-54(80.25mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_TX_P Between Pad J3-10(50.715mm,147.36mm) on Multi-Layer And Pad IC7-55(79.75mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_TX_P Between Pad IC7-55(79.75mm,135.401mm) on Top Layer And Pad R15-1(665.06mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_TX_N Between Pad J3-8(48.175mm,147.36mm) on Multi-Layer And Pad IC7-56(79.25mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_TX_N Between Pad IC7-56(79.25mm,135.401mm) on Top Layer And Pad R16-1(670.648mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad IC7-64(75.25mm,135.451mm) on Top Layer And Pad IC7-57(78.75mm,135.401mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_USB_UP_N Between Pad IC7-58(78.25mm,135.401mm) on Top Layer And Pad J8-1(91.179mm,94.462mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_USB_UP_P Between Pad IC7-59(77.75mm,135.401mm) on Top Layer And Pad J7-1(91.179mm,96.892mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_CLK Between Pad IC7-61(76.75mm,135.401mm) on Top Layer And Pad R1-2(251.27mm,58.092mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_USBRBIAS Between Pad IC7-63(75.75mm,135.401mm) on Top Layer And Pad R24-1(612.533mm,206.185mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_USB_PRTCTL0 Between Pad IC8-1(7.595mm,142.75mm) on Top Layer And Pad IC8-2(8.865mm,142.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_USB_PRTCTL1 Between Pad IC8-3(10.135mm,142.75mm) on Top Layer And Pad IC8-4(11.405mm,142.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC8_5 Between Pad IC8-5(11.405mm,148.25mm) on Top Layer And Pad J5-1(82.5mm,152mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad IC8-7(8.865mm,148.25mm) on Top Layer And Pad J1-4(65.329mm,65.202mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetIC8_8 Between Pad IC8-8(7.595mm,148.25mm) on Top Layer And Pad J4-1(67.5mm,152mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_DIO1_SPE_PHY0 Between Pad IC9_SPE_PHY0-11(41.45mm,45.9mm) on Top Layer And Pad R35_SPE_PHY0-1(128.135mm,281.816mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_DIO2_SPE_PHY0 Between Pad IC9_SPE_PHY0-12(41.45mm,46.3mm) on Top Layer And Pad R36_SPE_PHY0-1(89.019mm,281.816mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY0_RST Between Pad IC9_SPE_PHY0-13(41.45mm,46.7mm) on Top Layer And Pad J1-15(67.869mm,80.442mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.SCLK_SPE_PHY0 Between Pad IC9_SPE_PHY0-15(41.45mm,47.5mm) on Top Layer And Pad J1-23(67.869mm,90.602mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY0_IRQ Between Pad IC9_SPE_PHY0-16(41.5mm,47.9mm) on Top Layer And Pad J1-22(65.329mm,88.062mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC9_SPE_PHY0-21(39.3mm,48.45mm) on Top Layer And Pad IC9_SPE_PHY0-17(40.9mm,48.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.MOSI_SPE_PHY0 Between Pad IC9_SPE_PHY0-18(40.5mm,48.45mm) on Top Layer And Pad J1-19(67.869mm,85.522mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.CSN_SPE_PHY0 Between Pad IC9_SPE_PHY0-19(40.1mm,48.45mm) on Top Layer And Pad J1-24(65.329mm,90.602mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_CLK_SPE_PHY0 Between Pad IC9_SPE_PHY0-2(38.5mm,44.55mm) on Top Layer And Pad R2-2(246.952mm,58.092mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.MISO_SPE_PHY0 Between Pad IC9_SPE_PHY0-23(38.5mm,48.45mm) on Top Layer And Pad J1-21(67.869mm,88.062mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC52_SPE_PHY0_2 Between Pad IC9_SPE_PHY0-29(37.55mm,46.3mm) on Top Layer And Pad IC9_SPE_PHY0-28(37.55mm,46.7mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3_FILT Between Pad IC9_SPE_PHY0-4(39.3mm,44.55mm) on Top Layer And Pad IC9_SPE_PHY1-4(79.3mm,44.55mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_SPE_PHY0_P Between Pad IC9_SPE_PHY0-6(40.1mm,44.55mm) on Top Layer And Pad L6_SPE_PHY0-2(324.443mm,281.525mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_SPE_PHY0_N Between Pad IC9_SPE_PHY0-7(40.5mm,44.55mm) on Top Layer And Pad L6_SPE_PHY0-3(323.443mm,281.525mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_DIO1_SPE_PHY1 Between Pad R35_SPE_PHY1-1(0.525mm,297.462mm) on Top Layer [Unplated] And Pad IC9_SPE_PHY1-11(81.45mm,45.9mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_DIO2_SPE_PHY1 Between Pad IC9_SPE_PHY1-12(81.45mm,46.3mm) on Top Layer And Pad R36_SPE_PHY1-1(243.503mm,34.645mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY1_RST Between Pad J1-16(65.329mm,80.442mm) on Multi-Layer And Pad IC9_SPE_PHY1-13(81.45mm,46.7mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.SCLK_SPE_PHY1 Between Pad J1-40(65.329mm,110.922mm) on Multi-Layer And Pad IC9_SPE_PHY1-15(81.45mm,47.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY1_IRQ Between Pad J1-37(67.869mm,108.382mm) on Multi-Layer And Pad IC9_SPE_PHY1-16(81.5mm,47.9mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad IC9_SPE_PHY1-21(79.3mm,48.45mm) on Top Layer And Pad IC9_SPE_PHY1-17(80.9mm,48.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.MOSI_SPE_PHY1 Between Pad J1-38(65.329mm,108.382mm) on Multi-Layer And Pad IC9_SPE_PHY1-18(80.5mm,48.45mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.CSN_SPE_PHY1 Between Pad J1-26(65.329mm,93.142mm) on Multi-Layer And Pad IC9_SPE_PHY1-19(80.1mm,48.45mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_PHY_CLK_SPE_PHY1 Between Pad IC9_SPE_PHY1-2(78.5mm,44.55mm) on Top Layer And Pad R3-2(238.798mm,58.092mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PHY_SPI.MISO_SPE_PHY1 Between Pad J1-35(67.869mm,105.842mm) on Multi-Layer And Pad IC9_SPE_PHY1-23(78.5mm,48.45mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC52_SPE_PHY1_2 Between Pad IC9_SPE_PHY1-29(77.55mm,46.3mm) on Top Layer And Pad IC9_SPE_PHY1-28(77.55mm,46.7mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3_FILT Between Pad L7_SPE_PHY0-2(71.239mm,282.426mm) on Top Layer [Unplated] And Pad IC9_SPE_PHY1-4(79.3mm,44.55mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_SPE_PHY1_P Between Pad IC9_SPE_PHY1-6(80.1mm,44.55mm) on Top Layer And Pad L6_SPE_PHY1-2(191.754mm,297.298mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_SPE_PHY1_N Between Pad IC9_SPE_PHY1-7(80.5mm,44.55mm) on Top Layer And Pad L6_SPE_PHY1-3(190.754mm,297.298mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY0_RST Between Pad J1-15(67.869mm,80.442mm) on Multi-Layer And Pad R32_SPE_PHY0-1(380.052mm,280.876mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY1_RST Between Pad J1-16(65.329mm,80.442mm) on Multi-Layer And Pad R32_SPE_PHY1-1(245.838mm,296.523mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad J1-2(65.329mm,62.662mm) on Multi-Layer And Pad J1-4(65.329mm,65.202mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad J1-2(65.329mm,62.662mm) on Multi-Layer And Pad R52-2(112.97mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY0_IRQ Between Pad J1-22(65.329mm,88.062mm) on Multi-Layer And Pad R31_SPE_PHY0-1(360.494mm,281.816mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL0_ENABLE Between Pad J1-27(67.869mm,95.682mm) on Multi-Layer And Pad R7-1(602.412mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL1_ENABLE Between Pad J1-28(65.329mm,95.682mm) on Multi-Layer And Pad R45-1(158.03mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL0_PG Between Pad J1-29(67.869mm,98.222mm) on Multi-Layer And Pad R8-2(587.427mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SPE_PHY1_IRQ Between Pad J1-37(67.869mm,108.382mm) on Multi-Layer And Pad R31_SPE_PHY1-1(226.788mm,297.462mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad J3-4(43.095mm,147.36mm) on Multi-Layer And Pad J3-9(49.445mm,149.9mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ3_L2 Between Pad J3-L2(51.8mm,160.83mm) on Multi-Layer And Pad R20-2(641.235mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetJ3_L4 Between Pad J3-L4(38.2mm,160.83mm) on Multi-Layer And Pad R26-2(600.849mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC24_1 Between Pad J3-S1(52.745mm,153.2mm) on Multi-Layer And Pad R21-2(637.717mm,206.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC28_2 Between Pad J4-5(64.78mm,145.73mm) on Multi-Layer And Pad J4-5(64.78mm,152.73mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC28_2 Between Pad J4-5(64.78mm,145.73mm) on Multi-Layer And Pad J4-5(70.22mm,145.73mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC28_2 Between Pad J4-5(64.78mm,152.73mm) on Multi-Layer And Pad J4-5(70.22mm,152.73mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC28_2 Between Pad J4-5(70.22mm,152.73mm) on Multi-Layer And Pad R29-2(547.687mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC29_2 Between Pad J5-5(79.78mm,145.73mm) on Multi-Layer And Pad J5-5(79.78mm,152.73mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC29_2 Between Pad J5-5(79.78mm,145.73mm) on Multi-Layer And Pad J5-5(85.22mm,145.73mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC29_2 Between Pad J5-5(79.78mm,152.73mm) on Multi-Layer And Pad J5-5(85.22mm,152.73mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC29_2 Between Pad J5-5(85.22mm,152.73mm) on Multi-Layer And Pad R30-2(527.036mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL0_0V Between Pad L2-2(25.75mm,23.25mm) on Top Layer And Pad NT2_SPE_PHY0-2(460.719mm,311.378mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PODL0_8V Between Pad L2-3(34.25mm,23.25mm) on Top Layer And Pad NT1_SPE_PHY0-2(441.415mm,311.378mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PODL1_0V Between Pad L3-2(65.75mm,23.25mm) on Top Layer And Pad NT2_SPE_PHY1-2(233.373mm,234.873mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PODL1_8V Between Pad L3-3(74.25mm,23.25mm) on Top Layer And Pad NT1_SPE_PHY1-2(214.577mm,234.873mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad L4-2(524.458mm,206.807mm) on Top Layer [Unplated] And Pad R15-2(665.06mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD1_SPE_PHY0_2 Between Pad LD1_SPE_PHY0-2(43.77mm,9.23mm) on Multi-Layer And Pad R35_SPE_PHY0-2(128.135mm,282.756mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD1_SPE_PHY0_4 Between Pad LD1_SPE_PHY0-4(43.77mm,11.77mm) on Multi-Layer And Pad R36_SPE_PHY0-2(89.019mm,282.756mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD1_SPE_PHY1_2 Between Pad R35_SPE_PHY1-2(0.525mm,298.402mm) on Top Layer [Unplated] And Pad LD1_SPE_PHY1-2(83.77mm,9.23mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLD1_SPE_PHY1_4 Between Pad LD1_SPE_PHY1-4(83.77mm,11.77mm) on Multi-Layer And Pad R36_SPE_PHY1-2(243.503mm,35.585mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD2_1 Between Pad LD2-1(13.77mm,156.77mm) on Multi-Layer And Pad R42-2(481.902mm,193.99mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetLD2_3 Between Pad LD2-3(13.77mm,154.23mm) on Multi-Layer And Pad R41-2(478.356mm,193.778mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad LD2-4(11.23mm,154.23mm) on Multi-Layer And Pad PCBM1-7(11.365mm,68.96mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLD3_1 Between Pad LD3-1(18.77mm,6.75mm) on Multi-Layer And Pad T1-3(121.5mm,21.65mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD3_2 Between Pad LD3-2(16.23mm,6.75mm) on Multi-Layer And Pad R50-1(135.53mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD4_1 Between Pad LD4-1(58.77mm,6.75mm) on Multi-Layer And Pad T2-3(108.5mm,21.65mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetLD4_2 Between Pad LD4-2(56.23mm,6.75mm) on Multi-Layer And Pad R52-1(112.03mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY0_N Between Pad NT1_SPE_PHY0-1(441.415mm,311.078mm) on Top Layer And Pad NT2_SPE_PHY0-1(460.719mm,311.078mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ETH_LINE_DCFILT_SPE_PHY1_N Between Pad NT1_SPE_PHY1-1(214.577mm,234.573mm) on Top Layer And Pad NT2_SPE_PHY1-1(233.373mm,234.573mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net P3V3 Between Pad OSC1-1(231.992mm,57.694mm) on Top Layer [Unplated] And Pad OSC1-4(233.642mm,57.694mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad PCBM1-8(13.905mm,68.96mm) on Multi-Layer And Pad PCBM1-10(18.985mm,68.96mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net POE_VOUT Between Pad PCBM1-7(11.365mm,68.96mm) on Multi-Layer And Pad PCBM1-8(13.905mm,68.96mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC19_1 Between Pad R10-2(570.65mm,274.385mm) on Top Layer [Unplated] And Pad R9-1(576.2mm,274.321mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad R15-2(665.06mm,207.125mm) on Top Layer [Unplated] And Pad R16-2(670.648mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad R16-2(670.648mm,207.125mm) on Top Layer [Unplated] And Pad R17-2(676.236mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad R17-2(676.236mm,207.125mm) on Top Layer [Unplated] And Pad R18-2(681.824mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P3V3A Between Pad R18-2(681.824mm,207.125mm) on Top Layer [Unplated] And Pad R19-2(687.437mm,207.125mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetR33_SPE_PHY0_1 Between Pad R33_SPE_PHY0-1(206.087mm,280.876mm) on Top Layer And Pad R34_SPE_PHY0-1(225.645mm,280.876mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR33_SPE_PHY1_1 Between Pad R33_SPE_PHY1-1(76.446mm,296.523mm) on Top Layer And Pad R34_SPE_PHY1-1(95.496mm,296.523mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC71_1 Between Pad R49-2(139.47mm,21.5mm) on Top Layer [Unplated] And Pad R40-1(141.53mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PODL1_PG Between Pad R53-2(104.5mm,21.5mm) on Top Layer And Pad R46-2(130.47mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetC69_1 Between Pad R48-2(113.47mm,16.5mm) on Top Layer [Unplated] And Pad R47-1(123.03mm,16.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net P5V0 Between Pad R52-2(112.97mm,21.5mm) on Top Layer [Unplated] And Pad R50-2(136.47mm,21.5mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetR51_1 Between Pad R51-1(115.5mm,21.5mm) on Top Layer And Pad T1-1(120.55mm,19.35mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetR53_1 Between Pad R53-1(102.5mm,21.5mm) on Top Layer And Pad T2-1(107.55mm,19.35mm) on Top Layer [Unplated] 
+Rule Violations :298
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1816.048mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1'))
+   Violation between Room Definition: Between Component L6_SPE_PHY1-DLW32MH201XK2L (191.254mm,295.773mm) on Top Layer And Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) 
+   Violation between Room Definition: Between Component LD1_SPE_PHY1-Green\Yellow (82.5mm,10.5mm) on Top Layer And Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) 
+   Violation between Room Definition: Between LCC Component IC9_SPE_PHY1-NCN26010XMNTXG (79.5mm,46.5mm) on Top Layer And Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And Small Component J6_SPE_PHY1-691382040002 (70mm,6.6mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C47_SPE_PHY1-100nF (207.738mm,297.932mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C48_SPE_PHY1-100nF (152.392mm,297.932mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C49_SPE_PHY1-220nF (114.749mm,297.145mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C50_SPE_PHY1-220nF (133.799mm,297.145mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C51_SPE_PHY1-2.2uF (57.396mm,297.932mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C52_SPE_PHY1-2.2uF (38.371mm,297.932mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C53_SPE_PHY1-100nF (168.827mm,35.115mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C54_SPE_PHY1-100nF (187.877mm,35.115mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component C55_SPE_PHY1-2.2uF (206.927mm,35.115mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component L7_SPE_PHY1-1k@100MHz (226.231mm,34.455mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component NT1_SPE_PHY1-Net tie (214.577mm,234.722mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component NT2_SPE_PHY1-Net tie (233.373mm,234.722mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component R31_SPE_PHY1-10k (226.788mm,297.932mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component R32_SPE_PHY1-3k3 (245.838mm,297.323mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component R33_SPE_PHY1-49R9 (76.446mm,297.323mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component R34_SPE_PHY1-49R9 (95.496mm,297.323mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component R35_SPE_PHY1-3k3 (0.525mm,297.932mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY1 (Bounding Region = (0mm, 115.722mm, 50.8mm, 141.122mm) (InComponentClass('SPE_PHY1')) And SMT Small Component R36_SPE_PHY1-2k (243.503mm,35.115mm) on Top Layer 
+Rule Violations :22
+
+Processing Rule : Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top'))
+   Violation between Room Definition: Between Component J1-Raspberry Pi Zero 2 compatible (93.099mm,54.292mm) on Top Layer And Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) 
+   Violation between Room Definition: Between Component OSC1-25MHz (232.817mm,56.644mm) on Top Layer And Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And Small Component MP1-M2.5 x 6.5mm (89.599mm,57.792mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And Small Component MP2-M2.5 x 6.5mm (66.599mm,57.792mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And Small Component MP3-M2.5 x 6.5mm (89.599mm,115.792mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And Small Component MP4-M2.5 x 6.5mm (66.599mm,115.792mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component C1-100nF (242.672mm,58.092mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component C2-100nF (53.5mm,55.5mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component J7-0907-4-15-20-75-14-110 (91.179mm,96.892mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component J8-0907-4-15-20-75-14-110 (91.179mm,94.462mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component J9-0907-4-15-20-75-14-110 (90.689mm,102.002mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component R1-30 (250.8mm,58.092mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component R2-30 (246.482mm,58.092mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SMT Small Component R3-30 (238.328mm,58.092mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_router_top (Bounding Region = (418.758mm, 229.846mm, 469.558mm, 255.246mm) (InComponentClass('SPE_router_top')) And SOIC Component IC1-PL133-37TC (255.804mm,56.517mm) on Top Layer 
+Rule Violations :15
+
+Processing Rule : Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY'))
+   Violation between Room Definition: Between Component J3-RJ45 (45mm,156.25mm) on Top Layer And Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) 
+   Violation between Room Definition: Between LCC Component IC7-LAN9512-JZX-TR (79mm,131mm) on Top Layer And Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SIP Component J4-USB A (67.5mm,152mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SIP Component J5-USB A (82.5mm,152mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C24-Undefined (659.675mm,205.867mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C25-22nF (631.303mm,206.553mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C26-10nF (589.139mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C27-Undefined (583.755mm,205.867mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C28-100nF (553.529mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C29-100nF (532.878mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C30-4.7uF (464.908mm,206.045mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C31-100nF (470.521mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C32-100nF (475.855mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C33-100nF (481.697mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C34-100nF (487.539mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C35-100nF (493.381mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C36-100nF (499.223mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C37-100nF (505.065mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C38-100nF (510.907mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C39-100nF (516.749mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C40-100nF (419.823mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C41-100nF (425.665mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C42-100nF (430.999mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C43-100nF (436.866mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C44-100nF (442.708mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C45-1uF (448.55mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C46-100nF (454.392mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C72-22uF (104mm,9.5mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component C73-22uF (110mm,9.5mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component L4-120R@100MHz (523.658mm,206.807mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component L5-120R@100MHz (461.301mm,206.807mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R15-49R9 (665.06mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R16-49R9 (670.648mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R17-49R9 (676.236mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R18-49R9 (681.824mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R19-10 (687.437mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R20-330 (641.235mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R21-0 (636.917mm,206.807mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R22-10k (624.217mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R23-10k (618.375mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R24-12k (612.533mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R25-10k (606.691mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R26-330 (600.849mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R27-0 (595.235mm,206.045mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R28-12k4 (577.455mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R29-330 (547.687mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SMT Small Component R30-330 (527.036mm,206.655mm) on Top Layer 
+   Violation between Room Definition: Between Room ETH_PHY (Bounding Region = (106.221mm, 30.403mm, 140.996mm, 55.803mm) (InComponentClass('ETH_PHY')) And SOIC Component IC8-MIC2026A-1YM (9.5mm,145.5mm) on Top Layer 
+Rule Violations :48
+
+Processing Rule : Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0'))
+   Violation between Room Definition: Between Component L6_SPE_PHY0-DLW32MH201XK2L (323.943mm,280mm) on Top Layer And Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) 
+   Violation between Room Definition: Between Component LD1_SPE_PHY0-Green\Yellow (42.5mm,10.5mm) on Top Layer And Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) 
+   Violation between Room Definition: Between LCC Component IC9_SPE_PHY0-NCN26010XMNTXG (39.5mm,46.5mm) on Top Layer And Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And Small Component J6_SPE_PHY0-691382040002 (30mm,6.6mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C47_SPE_PHY0-100nF (340.936mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C48_SPE_PHY0-100nF (284.04mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C49_SPE_PHY0-220nF (245.406mm,281.499mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C50_SPE_PHY0-220nF (264.964mm,281.499mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C51_SPE_PHY0-2.2uF (186.529mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C52_SPE_PHY0-2.2uF (166.971mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C53_SPE_PHY0-100nF (12.311mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C54_SPE_PHY0-100nF (31.869mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component C55_SPE_PHY0-2.2uF (51.427mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component L7_SPE_PHY0-1k@100MHz (71.239mm,281.626mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component NT1_SPE_PHY0-Net tie (441.415mm,311.227mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component NT2_SPE_PHY0-Net tie (460.719mm,311.227mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component R31_SPE_PHY0-10k (360.494mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component R32_SPE_PHY0-3k3 (380.052mm,281.676mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component R33_SPE_PHY0-49R9 (206.087mm,281.676mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component R34_SPE_PHY0-49R9 (225.645mm,281.676mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component R35_SPE_PHY0-3k3 (128.135mm,282.286mm) on Top Layer 
+   Violation between Room Definition: Between Room SPE_PHY0 (Bounding Region = (396.66mm, 265.888mm, 447.46mm, 291.288mm) (InComponentClass('SPE_PHY0')) And SMT Small Component R36_SPE_PHY0-2k (89.019mm,282.286mm) on Top Layer 
+Rule Violations :22
+
+Processing Rule : Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply'))
+   Violation between Room Definition: Between Component IC10-MPM3630GQV-Z (186.5mm,20mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component IC2-ACPL-217-500E (42.54mm,87.74mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component IC3-ACPL-217-500E (42.54mm,77.809mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component IC4-MPM3630GQV-Z (22.5mm,44mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component IC5-MPM3630GQV-Z (598.539mm,271.705mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component IC6-MPM3630GQV-Z (62.5mm,44mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component L1-33uH (52mm,114mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component L2-33uH (30mm,25mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component L3-33uH (70mm,25mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component LD2-Red (12.5mm,155.5mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Component PCBM1-AG5810 (19mm,102mm) on Top Layer And Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And Small Component J2-Jack (25mm,155mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And Small Component LD3-Red (17.5mm,6.75mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And Small Component LD4-Red (57.5mm,6.75mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C10-100nF (733.489mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C11-470uF (21mm,142.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C12-470pF (655.994mm,273.864mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C13-22uF (640.373mm,273.661mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C14-10uF (22.5mm,36.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C15-470uF (14.5mm,28.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C16-22uF (590.868mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C17-22uF (582.41mm,273.661mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C18-22uF (555.461mm,273.661mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C19-22pF (561.43mm,273.661mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C20-470pF (537.02mm,273.127mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C21-22uF (520.866mm,273.661mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C22-10uF (62.5mm,36.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C23-470uF (54.5mm,28.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C3-10uF (880.606mm,273.661mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C4-470uF (13.5mm,61mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C5-5.6nF (38.5mm,119mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C56-470pF (181.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C57-22uF (174mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C58-22uF (153mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C59-22uF (159mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C60-22uF (180.5mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C61-22uF (186.5mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C62-22uF (193mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C63-22pF (176mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C64-470pF (173.5mm,16mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C6-5.6nF (38.5mm,109mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C65-22uF (163mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C66-22uF (134.5mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C67-22uF (140.5mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C68-22uF (146.5mm,15.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C69-22pF (127mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C70-22uF (165mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C7-10uF (497mm,251.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C71-22pF (145mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C8-10uF (32.588mm,150.901mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component C9-470uF (27.5mm,61mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D12-SS34 (238mm,13.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D13-SS34 (249mm,13.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D14-SS34 (208.5mm,13.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D15-SS34 (219.5mm,13.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D1-SS26 (39.5mm,128.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D2-SS26 (44mm,128.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D3-SS26 (48.5mm,128.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D4-SS26 (53mm,128.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D5-SMCJ58CA (59mm,132.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D6-SS26 (39.5mm,136.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D7-SS26 (44mm,136.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D8-SS26 (48.5mm,136.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component D9-SS26 (53mm,136.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component F1-2.5A-15V (229mm,12.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component F2-1.5A-33V (199.5mm,12.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component F3-1.5A-33V (153mm,12.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R10-4k12 (570.65mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R11-4R7 (565.57mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R12-100k (530.975mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R13-10k (513.424mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R14-51k (476.111mm,273.915mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R37-4R7 (178.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R38-100k (169.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R39-10k (148.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R40-51k (142mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R4-10k (486.597mm,297.91mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R43-6k98 (170.5mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R44-4R7 (167.5mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R45-10k (158.5mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R46-10k (130mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R47-51k (123.5mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R48-4k12 (113mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R49-6k98 (139mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R50-300 (136mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R5-10k (677.635mm,274.321mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R51-1k (116.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R52-300 (112.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R53-1k (103.5mm,21.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R6-4R7 (650.888mm,274.321mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R7-10k (602.882mm,274.321mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R8-10k (586.957mm,274.321mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component R9-51k (576.67mm,274.321mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component T1-BC847C (121.5mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room PoE and power supply (Bounding Region = (475.451mm, 180.341mm, 491.503mm, 197.435mm) (InComponentClass('PoE and power supply')) And SMT Small Component T2-BC847C (108.5mm,20.5mm) on Top Layer 
+Rule Violations :95
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:01
