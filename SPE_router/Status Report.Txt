@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SPE_router.PrjPcb]
+   Generated File[Bill of Materials-SPE_router.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:45:05 On 25.03.2024
